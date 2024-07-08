@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @TungSC
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=47AAF7&random=false&width=435&lines=Hi+there+%E2%9C%8C%F0%9F%8F%BB;Tung+Ngo+is+currently+unavailable!!!)](https://git.io/typing-svg)
